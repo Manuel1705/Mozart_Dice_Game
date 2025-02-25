@@ -9,4 +9,6 @@ Infine, il file MIDI viene scritto su disco e riprodotto.
 
 # how to run
 
-execute ./run.sh
+to set up the env run ./init.sh
+
+to execute the script run ./run.sh

@@ -103,7 +103,7 @@ def main():
     composition = generate_composition()
     print("Frammenti scelti per le 16 misure:", composition)
 
-    midi_filename = "mozart_dice_game.mid"
+    midi_filename = "composition.mid"
     create_midi(composition, midi_filename)
     play_midi(midi_filename)
 
