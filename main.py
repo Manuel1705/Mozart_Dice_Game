@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Mozart Dice Game – Minuetto
+Mozart Dice Game
 ---------------------------
 Questo script implementa il gioco dei dadi musicali di Mozart.
 Per ogni una delle 16 misure viene simulato il lancio di due dadi che,
